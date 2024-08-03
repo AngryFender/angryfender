@@ -1,4 +1,4 @@
-## Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=AngryFender&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **AngryFender/angryfender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
